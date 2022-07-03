@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Deshmukh</h1>
 <h3 align="center">Passionate Software Developer From India</h3>
 
-- 🔭 I’m currently working on **Webcoin**
+- 🔭 I’m currently working on **Distributed-key-value-store-using-redis**
 
 - 🌱 I’m currently learning **React**
 
