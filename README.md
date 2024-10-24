@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Deshmukh</h1>
-<h3 align="center">Passionate Software Developer From India</h3>
+<h3 align="center">Software Engineer at Triveous</h3>
 
 - 🔭 I’m currently working on **Portfolio Website**
 
