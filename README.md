@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Deshmukh</h1>
 <h3 align="center">Passionate Software Developer From India</h3>
 
-- 🔭 I’m currently working on **Distributed-key-value-store-using-redis**
+- 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Javascript, c, c++, python**
+- 💬 Ask me about **Javascript, c/c++, Java**
 
 - 📫 How to reach me **aniruddhadeshmukh2201@gmail.com**
 
