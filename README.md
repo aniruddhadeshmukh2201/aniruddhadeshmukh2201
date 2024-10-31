@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Deshmukh</h1>
 <h3 align="center">Software Engineer at Triveous</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Mario Game** & **Portfolio Website**
 
 - 🌱 I’m currently learning **Java**
 
