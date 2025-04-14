@@ -66,7 +66,3 @@
 - 🏍️ Riding my Royal Enfield and exploring new places
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniruddha2201&show_icons=true&theme=radical" alt="aniruddha2201" />
-</p>
