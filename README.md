@@ -18,12 +18,10 @@
 - 🎯 Long-term goal: Become a well-rounded **Software Architect** & start something of my own  
 
 - 💬 Ask me about:  
-  &nbsp;&nbsp;&nbsp;&nbsp;💻 **JavaScript, C/C++, Java, React, Next.js**  
-  &nbsp;&nbsp;&nbsp;&nbsp;🛠️ **System design, GitOps, DICOM image workflows**  
+  &nbsp;&nbsp;&nbsp;&nbsp;💻 **JavaScript, C/C++, Java, React, Next.js**
   &nbsp;&nbsp;&nbsp;&nbsp;🎯 Balancing work, learning, and side hustles 😅
 
 - 📫 Reach out at: **aniruddhadeshmukh2201@gmail.com**  
-- 🌍 Fun fact: I'm learning **German** 🇩🇪 and love exploring ideas for tech + travel content
 
 ---
 
@@ -31,12 +29,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/aniruddha-deshmukh-abb44112b/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/aniruddha2201" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/yellow_flash07" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
 
@@ -51,7 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
