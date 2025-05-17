@@ -15,7 +15,7 @@
 
 - 🌱 Deep diving into **Java**, **LLD**, and **Spring Boot** to level up my backend game  
 - 🧠 Exploring **Kubernetes**, **Argo CD**, and the world of GitOps
-- 🎯 Long-term goal: Become a well-rounded **Software Architect** & start something of my own  
+- 🎯 Long-term goal: Make something that is used by everyone!
 
 - 💬 Ask me about:  
   &nbsp;&nbsp;&nbsp;&nbsp;💻 **JavaScript, C/C++, Java, React, Next.js**
